@@ -1,3 +1,36 @@
 body {
-    background-color: #f5dd7b; 
+    background-color: #efbfc6; 
+}
+h1, h3 {
+    text-align: center;
+}
+h3 {
+    color: #8a0f0f; 
+}
+p {
+    text-align: center;
+    line-height: 1.5;
+}
+a {
+    color: #c22828;
+}
+.navigation-links {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.email-link {
+    display: flex;
+    justify-content: center;
+}
+.croissant-photos {
+    display:flex;
+    justify-content: space-evenly;
+}
+.choco-croissant {
+    max-width: 400px;
+    border-radius: 10px;;
+}
+.croissant {
+    border-radius: 10px;
 }
